@@ -12,7 +12,7 @@ function App() {
  // Cleanup the interval on component unmount to avoid memory leaks Isiendelee kucountinue running 
     return () => clearInterval(timerId);
   }, []);
-    
+ // Render the current date and time in a user-friendly format using date-fns    
   return (
     <div className="app-container">
       <header>
