@@ -20,3 +20,12 @@ Make sure you have **Node.js** installed on your computer. (You can check by typ
 Open your terminal inside the project folder and run:
 ```bash
 npm install
+
+Clone or Download the Repository
+git clone <https://github.com/mted39313-cmd/color-clock-with-react>
+
+Navigate to the Project Directory
+cd color-clock
+
+Start the Development Server
+npm run dev
