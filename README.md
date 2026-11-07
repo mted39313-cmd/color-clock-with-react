@@ -21,11 +21,11 @@ Open your terminal inside the project folder and run:
 ```bash
 npm install
 
-### 3.Clone or Download the Repository
+Clone or Download the Repository
 git clone <https://github.com/mted39313-cmd/color-clock-with-react>
 
-### 4.Navigate to the Project Directory
+Navigate to the Project Directory
 cd color-clock
 
-### 5.Start the Development Server
+ Start the Development Server
 npm run dev
